@@ -1,8 +1,8 @@
 # Exploring-London-s-Travel-Network
 
-Use SQL to analyze a database containing information about Transport for London journeys over 12 years! 
-
 Source problem from Datacamp 
+
+Use SQL to analyze a database containing information about Transport for London journeys over 12 years! 
 
 Project Description
 How do Londoners get around? Transport for London (TfL) is a vast public transport network that allows London's residents to efficiently travel around the UK's capital, to the tune of over 1.5 million journeys per day!
